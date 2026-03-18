@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello Kodak Infotech");
         System.out.println("Welcome to Java Programming");
         System.out.println("Java is a versatile programming language");
-        System.out.println("Java is widely used for web development, mobile applications, and enterprise software");
+        System.out.println("Java is widely used for web development, mobile applications, and enterprise sw");
     }
 }
